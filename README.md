@@ -3,7 +3,7 @@
 ## 📖 Table of Contents
  - [Groupware](#-groupware)
  
-## (#groupware) Groupware
+## Groupware
  * [Fairapps](https://fairapps.net/home)
 
  

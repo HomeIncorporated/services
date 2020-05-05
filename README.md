@@ -1,9 +1,11 @@
 Open Source Services
 
 ## 📖 Table of Contents
+ - [Mailing](#-mailing)
  - [Groupware](#-groupware)
  - [Design](#-design)
- - [Mailing](#-mailing)
+ - [Messaging](#-messaging)
+ - [Maps](#-maps)
 
 ## [↑](#contents) Mailing
 * [Protonmail](https://protonmail.com/)
@@ -25,3 +27,6 @@ Open Source Services
 * [Signal](https://www.signal.org/)
 * [Wickr](https://wickr.com/)
 * [Threema(https://threema.ch/)
+
+## [↑](#contents) Maps
+* [Openstreetmap](https://www.openstreetmap.org/)

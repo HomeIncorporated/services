@@ -15,3 +15,13 @@ Open Source Services
 
 ## [↑](#contents) Design
 * [Draw.io](draw.io)
+
+## [↑](#contents) Messaging
+* [Rocket.chat]https://rocket.chat/)
+* [Mattermost](https://mattermost.com/)
+* [Zulip](https://zulipchat.com/)
+* [Riot](https://about.riot.im/)
+* [Wire](https://wire.com/
+* [Signal](https://www.signal.org/)
+* [Wickr](https://wickr.com/)
+* [Threema(https://threema.ch/)

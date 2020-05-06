@@ -35,7 +35,7 @@ Open Source Services
 * [Jitsi](https://jitsi.org/)
 
 ## [↑](#contents) Messaging
-* [Rocket.chat]https://rocket.chat/)
+* [Rocket.chat](https://rocket.chat/)
 * [Mattermost](https://mattermost.com/)
 * [Zulip](https://zulipchat.com/)
 * [Riot](https://about.riot.im/)

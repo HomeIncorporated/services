@@ -42,7 +42,6 @@ Open Source Services
 * [Wire](https://wire.com/
 * [Signal](https://www.signal.org/)
 * [Wickr](https://wickr.com/)
-* [Threema(https://threema.ch/)
 
 ## [↑](#contents) Maps
 * [Openstreetmap](https://www.openstreetmap.org/)

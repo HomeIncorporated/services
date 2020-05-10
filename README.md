@@ -1,5 +1,3 @@
-Open Source Services
-
 ## 📖 Table of Contents
  - [Mailing](#-mailing)
  - [Groupware](#-groupware)
@@ -19,6 +17,7 @@ Open Source Services
  - [Product feedback](#-product-feedback)
  - [Analytics](#-analytics)
  - [Helpdesk](#-helpdesk)
+ - [API Documentation](#-api-documentation)
 
 ## [↑](#contents) Mailing
 * [Protonmail](https://protonmail.com/)
@@ -86,3 +85,6 @@ Open Source Services
 
 # [↑](#contents) Helpdesk
 * [Helpy](https://helpy.io/)
+
+# [↑](#contents) API documentation
+* [Swagger.io](https://swagger.io/)

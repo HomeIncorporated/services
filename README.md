@@ -39,7 +39,7 @@ Open Source Services
 * [Mattermost](https://mattermost.com/)
 * [Zulip](https://zulipchat.com/)
 * [Riot](https://about.riot.im/)
-* [Wire](https://wire.com/
+* [Wire](https://wire.com/)
 * [Signal](https://www.signal.org/)
 * [Wickr](https://wickr.com/)
 

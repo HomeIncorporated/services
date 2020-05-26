@@ -17,7 +17,8 @@
  - [Product feedback](#-product-feedback)
  - [Analytics](#-analytics)
  - [Helpdesk](#-helpdesk)
- - [API Documentation](#-api-documentation)
+ - [API](#-api)
+ - [Container](#-container)
 
 ## [↑](#contents) Mailing
 * [Protonmail](https://protonmail.com/)
@@ -86,5 +87,9 @@
 # [↑](#contents) Helpdesk
 * [Helpy](https://helpy.io/)
 
-# [↑](#contents) API documentation
+# [↑](#contents) API
 * [Swagger.io](https://swagger.io/)
+* [RapidAPI](https://rapidapi.com/)
+
+# [↑](#contents) Container
+* [Linuxserver](https://fleet.linuxserver.io/)
